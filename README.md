@@ -1,7 +1,11 @@
-# LinkdinIntroAnimation
+# Linkdin Intro Animation
 
-Step 1 : Download code
+# IOS
+
+Step 1 : Download code 
+
 Step 2 : Change Image  which you want to display
+
 
 self.arrImages=[[NSMutableArray alloc] initWithObjects:@"1",@"2",@"3",@"4", nil];
 
