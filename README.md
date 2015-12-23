@@ -13,5 +13,7 @@ Step 3 : Change text which you want to display above image. Please change it fro
 
  self.arrIntrotext=[[NSMutableArray alloc] initWithObjects:@"Sample text for Page 1",@"Sample text for Page 2",@"Sample text for Page 3",@"Sample text for Page 4", nil];
     
-    
+#License
+
+LinkdinIntroAnimation is available under the MIT license. See the LICENSE file for more info.
     
