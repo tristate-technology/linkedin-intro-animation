@@ -26,7 +26,7 @@
     self.arrIntrotext=[[NSMutableArray alloc] initWithObjects:@"Sample text for Page 1",@"Sample text for Page 2",@"Sample text for Page 3",@"Sample text for Page 4", nil];
   
     [self setupCollectionView];
-    
+    [self rightanimatetoImage];
     self.img_introimages.image=[UIImage imageNamed:[self.arrImages objectAtIndex:0]];
     self.imgHightlightImage.image = [UIImage imageNamed:[self.arrImages objectAtIndex:0]];
 
