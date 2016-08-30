@@ -1,4 +1,4 @@
-# Linkdin Kind Of Intro Animation
+# Linkedin Kind Of Intro Animation
 
 # IOS
 
